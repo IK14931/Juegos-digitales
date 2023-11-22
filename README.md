@@ -1,3 +1,3 @@
 NUMERO OCULTO
 
-![download](https://github.com/IK14931/Juegos-digitales/assets/151745652/bee7b29a-dd9e-475a-ad5e-e9806c6615b6)
+![Quien-es-quien-con-numeros](https://github.com/IK14931/Juegos-digitales/assets/151745652/1b3fcceb-d1b0-4ec7-b3d8-9d35d8ab867d)
