@@ -24,12 +24,14 @@ Estos dos estados discretos reciben muchas parejas de nombres en libros de elect
 La clasificación de los sistemas digitales se pueden dividir en dos grupos: combinacionales y secuenciales.
 
 Combinacionales: Son sistemas sin memoria en la que las salidas en cualquier instante de tiempo dependen del valor de las entradas en ese mismo instante.
+
 Secuenciales: Son sistemas con memoria en la que la salida del sistema depende del valor de las entradas en ese instante de tiempo y de estado.
 
 Variable binaria
 Es la variable que solo puede tomar dos valores e indica el estado en el que se encuentra un elemento de entrada o de salida.
 
 Accionado (1): Cambia el estado.
+
 Sin accionar (0): No cambia el estado.
 
 Operaciones lógicas. 
