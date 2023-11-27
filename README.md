@@ -28,6 +28,7 @@ Combinacionales: Son sistemas sin memoria en la que las salidas en cualquier ins
 Secuenciales: Son sistemas con memoria en la que la salida del sistema depende del valor de las entradas en ese instante de tiempo y de estado.
 
 Variable binaria
+
 Es la variable que solo puede tomar dos valores e indica el estado en el que se encuentra un elemento de entrada o de salida.
 
 Accionado (1): Cambia el estado.
@@ -37,6 +38,7 @@ Sin accionar (0): No cambia el estado.
 Operaciones lógicas. 
 
 Algebra de Boole
+
 Es un sistema matemático que sirve para resolver y representar circuitos digitales. Existen las reglas de Boole y el teorema de De Morgan.
 
 Reglas de Boole:
@@ -46,6 +48,7 @@ Teorema de De Morgan:
 
 
 Tabla de la verdad
+
 Con ello, se puede proporcionar el valor de una función para todas las posibles combinaciones de valores de las entradas.
 
 Función lógica
@@ -53,6 +56,7 @@ Función lógica
 Puertas Lógicas
 
 Método de simplificación de Karnaugh
+
 Este método se suele utilizar para simplificar las funciones lógicas que se han obtenido en la tabla de la verdad. Estos son los mapas de Karnaugh:
 
 
