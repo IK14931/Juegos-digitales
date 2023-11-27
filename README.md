@@ -25,7 +25,11 @@ La clasificación de los sistemas digitales se pueden dividir en dos grupos: com
 
 Combinacionales: Son sistemas sin memoria en la que las salidas en cualquier instante de tiempo dependen del valor de las entradas en ese mismo instante.
 
+![combinacional](https://github.com/IK14931/Juegos-digitales/assets/151745707/88c58741-d0b4-41a5-a2ff-3a737b63667d)
+
 Secuenciales: Son sistemas con memoria en la que la salida del sistema depende del valor de las entradas en ese instante de tiempo y de estado.
+
+![secuenciales](https://github.com/IK14931/Juegos-digitales/assets/151745707/36f50180-3f84-4a06-9f19-b3d9c6760800)
 
 Variable binaria
 
