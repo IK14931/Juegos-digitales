@@ -13,5 +13,45 @@ La lógica detrás de este juego implica el uso de dispositivos combinacionales 
 Este proyecto no solo proporcionará una experiencia práctica en el diseño de juegos digitales con FPGAs, sino que también permitirá la aplicación de conceptos clave relacionados con dispositivos combinacionales y secuenciales en el contexto de la programación de hardware.
 
 
+# Electrónica digital
+# Introducción
+La electrónica digital es la rama de la electrónica más moderna y la que evoluciona mucho más rápido. La información está codificada en estados discretos y en la mayoría de sistemas digitales, el número de estados discretos es tan solo de dos y se les denomina niveles lógicos.
+
+Estos dos estados discretos reciben muchas parejas de nombres en libros de electrónica y otros textos especializados y tener solo estos dos valores permite usar el álgebra booleana y códigos binarios.
+
+# Requerimientos del reto
+# Sistemas digitales
+La clasificación de los sistemas digitales se pueden dividir en dos grupos: combinacionales y secuenciales.
+
+Combinacionales: Son sistemas sin memoria en la que las salidas en cualquier instante de tiempo dependen del valor de las entradas en ese mismo instante.
+Secuenciales: Son sistemas con memoria en la que la salida del sistema depende del valor de las entradas en ese instante de tiempo y de estado.
+
+Variable binaria
+Es la variable que solo puede tomar dos valores e indica el estado en el que se encuentra un elemento de entrada o de salida.
+
+Accionado (1): Cambia el estado.
+Sin accionar (0): No cambia el estado.
+
+Operaciones lógicas. 
+
+Algebra de Boole
+Es un sistema matemático que sirve para resolver y representar circuitos digitales. Existen las reglas de Boole y el teorema de De Morgan.
+
+Reglas de Boole:
+
+ 
+Teorema de De Morgan:
+
+
+Tabla de la verdad
+Con ello, se puede proporcionar el valor de una función para todas las posibles combinaciones de valores de las entradas.
+
+Función lógica
+
+Puertas Lógicas
+
+Método de simplificación de Karnaugh
+Este método se suele utilizar para simplificar las funciones lógicas que se han obtenido en la tabla de la verdad. Estos son los mapas de Karnaugh:
+
 
 
