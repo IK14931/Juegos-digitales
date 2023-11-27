@@ -2,7 +2,7 @@
 
 ![fotor-ai-20231123104319](https://github.com/IK14931/Juegos-digitales/assets/151745652/4252a1bd-308f-4d22-b59c-7db3656980ee)
 
-Introducción
+# Introducción
 
 En el marco del tercer reto, se nos encomienda la tarea de desarrollar diversos juegos digitales haciendo uso de FPGA (Field-Programmable Gate Array). La implementación de estos juegos requiere la aplicación de dispositivos combinacionales y secuenciales para su ejecución eficiente.
 
