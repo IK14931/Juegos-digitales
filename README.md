@@ -62,13 +62,22 @@ Tabla de la verdad
 
 Con ello, se puede proporcionar el valor de una función para todas las posibles combinaciones de valores de las entradas.
 
+![tablas-de-la-verdad](https://github.com/IK14931/Juegos-digitales/assets/151745652/8df75027-1436-40bd-aeaf-1d4d1da38dbb)
+
+
 Función lógica
 
+![minterms-maxterms](https://github.com/IK14931/Juegos-digitales/assets/151745652/422ac397-7401-4447-9055-fe69fb21ae1b)
+
+
 Puertas Lógicas
+
+![simbolos-de-puertas-logicas-1](https://github.com/IK14931/Juegos-digitales/assets/151745652/26f47faa-9b88-4148-b738-268f183c690f)
 
 Método de simplificación de Karnaugh
 
 Este método se suele utilizar para simplificar las funciones lógicas que se han obtenido en la tabla de la verdad. Estos son los mapas de Karnaugh:
 
+![ejemplos-karnaugh](https://github.com/IK14931/Juegos-digitales/assets/151745652/1aec9c7d-78f5-45f1-bb48-2fab55278793)
 
 
