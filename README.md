@@ -147,6 +147,7 @@ Las placas FPGA (Field-Programmable Gate Array) son dispositivos electrónicos p
 
 # IceStudio
 Para facilitar la programacion en ICESTUDIO la dividimos en dos partes, por un lado hicimos la programacion del contador y por el otro lado la de el display de 7 segmentos.
+
 Display 7 segmentos
 
 ![display](https://github.com/IK14931/Juegos-digitales/assets/151745707/2cb6cc6c-858f-46db-94e7-a2e7b1cc16b2)
