@@ -172,8 +172,8 @@ Esta seria a programacion de nuestro juego digital, gracias a que con el SPI nos
 
 Os dejamos un enlace con un video que muestra cómo sería el montaje y cómo funciona nuestro juego.
 
+https://youtu.be/HS_yfvQdXFI?feature=shared
 ![VideoCapture_20231128-203639](https://github.com/IK14931/Juegos-digitales/assets/151745707/431c650a-8a57-489e-ac2f-6c8b8c9c2610)
 
-https://youtu.be/HS_yfvQdXFI?feature=shared
 
 
