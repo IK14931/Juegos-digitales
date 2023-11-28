@@ -12,7 +12,6 @@ La lógica detrás de este juego implica el uso de dispositivos combinacionales 
 
 Este proyecto no solo proporcionará una experiencia práctica en el diseño de juegos digitales con FPGAs, sino que también permitirá la aplicación de conceptos clave relacionados con dispositivos combinacionales y secuenciales en el contexto de la programación de hardware.
 
-
 # Electrónica digital
 # Introducción
 La electrónica digital es la rama de la electrónica más moderna y la que evoluciona mucho más rápido. La información está codificada en estados discretos y en la mayoría de sistemas digitales, el número de estados discretos es tan solo de dos y se les denomina niveles lógicos.
@@ -44,7 +43,6 @@ Operaciones lógicas.
 
 ![operaciones-logicas](https://github.com/IK14931/Juegos-digitales/assets/151745652/e0969078-ab76-49ad-9121-8333007e872b)
 
-
 Algebra de Boole
 
 Es un sistema matemático que sirve para resolver y representar circuitos digitales. Existen las reglas de Boole y el teorema de De Morgan.
@@ -53,7 +51,6 @@ Reglas de Boole:
 
 ![tabla5](https://github.com/IK14931/Juegos-digitales/assets/151745652/76e1a585-136d-435c-bd16-d45f7e14f0d0)
 
- 
 Teorema de De Morgan:
 
 ![Leyes De Morgan](https://github.com/IK14931/Juegos-digitales/assets/151745652/5cdce8ea-0934-49a9-91c2-962441248ed6)
@@ -64,11 +61,9 @@ Con ello, se puede proporcionar el valor de una función para todas las posibles
 
 ![tablas-de-la-verdad](https://github.com/IK14931/Juegos-digitales/assets/151745652/8df75027-1436-40bd-aeaf-1d4d1da38dbb)
 
-
 Función lógica
 
 ![minterms-maxterms](https://github.com/IK14931/Juegos-digitales/assets/151745652/422ac397-7401-4447-9055-fe69fb21ae1b)
-
 
 Puertas Lógicas
 
@@ -76,9 +71,11 @@ Puertas Lógicas
 
 Método de simplificación de Karnaugh
 
-Este método se suele utilizar para simplificar las funciones lógicas que se han obtenido en la tabla de la verdad. Estos son los mapas de Karnaugh:
+Este método se suele utilizar para simplificar las funciones lógicas que se han obtenido en la tabla de la verdad.
 
-![image](https://github.com/IK14931/Juegos-digitales/assets/151745652/28b1ebe9-9674-47e2-8e54-336ecef9d6cb)
+# Desarollo
+# Analisis de los sistemas a implementar
+
 
 
 
