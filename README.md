@@ -77,7 +77,13 @@ Este método se suele utilizar para simplificar las funciones lógicas que se ha
 
 ![reto 3 flowchart](https://github.com/IK14931/Juegos-digitales/assets/151745707/4ce51bba-e144-4a24-b67e-9417d1b4e907)
 
-# Desarollo
+Este juego se fundamenta en la elección por parte de un jugador de un número predeterminado mediante un interruptor DIP. Posteriormente, otro jugador intenta adivinar dicho número con la menor cantidad de intentos posible. Cuando el jugador propone un número mayor al seleccionado previamente, se activa un LED indicador, señalando que el número previo es menor. En caso de que el número propuesto sea menor al preestablecido, otro LED se enciende, indicando que el número previo es mayor. Cuando el jugador acierta el número, se activa un LED adicional, señalizando el acierto, acompañado por una señal auditiva generada por un buzzer.
+
+Cada intento queda registrado en un display de siete segmentos. Para verificar si el número ha sido acertado, el jugador debe pulsar un botón que proporcionará la información sobre si el número es mayor, menor o si ha sido acertado. Además, se incorpora un botón de reinicio que permite al jugador iniciar una nueva partida una vez que ha adivinado correctamente el número.
+
+Este diseño ofrece una experiencia de juego interactiva y desafiante, integrando elementos visuales y auditivos para proporcionar retroalimentación al jugador y un botón de control para facilitar la verificación y la gestión de nuevas partidas.
+
+# Desarrollo
 # Analisis de los sistemas a implementar
 Elementos necesarios
 
