@@ -146,9 +146,7 @@ Las placas FPGA (Field-Programmable Gate Array) son dispositivos electrónicos p
 ![multisim](https://github.com/IK14931/Juegos-digitales/assets/151745707/81d60e69-0169-4901-9a5c-cdca2aae24f3)
 
 # IceStudio
-
-![icestudio](https://github.com/IK14931/Juegos-digitales/assets/151745707/176f0f2b-01e2-481c-ab3e-11df6e2f7577)
-
+Para facilitar la programacion en ICESTUDIO la dividimos en dos partes, por un lado hicimos la programacion del contador y por el otro lado la de el display de 7 segmentos.
 Display 7 segmentos
 
 ![display](https://github.com/IK14931/Juegos-digitales/assets/151745707/2cb6cc6c-858f-46db-94e7-a2e7b1cc16b2)
@@ -160,6 +158,8 @@ Comparador
 Display SPI
 
 ![spi](https://github.com/IK14931/Juegos-digitales/assets/151745707/5708bc96-706f-4a0c-b86d-0741d06d4ddb)
+
+![icestudio](https://github.com/IK14931/Juegos-digitales/assets/151745707/176f0f2b-01e2-481c-ab3e-11df6e2f7577)
 
 # Presupuesto
 
