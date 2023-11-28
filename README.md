@@ -73,6 +73,10 @@ Método de simplificación de Karnaugh
 
 Este método se suele utilizar para simplificar las funciones lógicas que se han obtenido en la tabla de la verdad.
 
+# Flowchart
+
+![reto 3 flowchart](https://github.com/IK14931/Juegos-digitales/assets/151745707/4ce51bba-e144-4a24-b67e-9417d1b4e907)
+
 # Desarollo
 # Analisis de los sistemas a implementar
 Elementos necesarios
@@ -130,10 +134,6 @@ Alhambra
 Las placas FPGA (Field-Programmable Gate Array) son dispositivos electrónicos programables que permiten a los diseñadores implementar y personalizar circuitos digitales. Estas placas suelen ser utilizadas para el desarrollo e implementación de proyectos en el ámbito de la electrónica digital y la lógica programable.
 
 ![A2-465x368](https://github.com/IK14931/Juegos-digitales/assets/151745652/d27bfa18-d07a-4988-ba36-247831e9bfa1)
-
-# Flowchart
-
-![reto 3 flowchart](https://github.com/IK14931/Juegos-digitales/assets/151745707/4ce51bba-e144-4a24-b67e-9417d1b4e907)
 
 # Multisim
 
