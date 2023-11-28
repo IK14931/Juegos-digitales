@@ -75,6 +75,27 @@ Este método se suele utilizar para simplificar las funciones lógicas que se ha
 
 # Desarollo
 # Analisis de los sistemas a implementar
+Elementos necesarios
+
+Fuente de alimentación
+Una fuente de alimentación es un dispositivo que proporciona energía eléctrica a otros dispositivos, convirtiendo la corriente eléctrica de una forma a otra para satisfacer los requisitos específicos del dispositivo conectado.
+Interruptor DIP
+Un interruptor DIP (Dual In-line Package) es un dispositivo de conmutación utilizado en electrónica. Se compone de un paquete rectangular con dos filas de pines que se insertan en una placa de circuito impreso. Cada interruptor DIP consta de interruptores individuales que pueden estar en posición "encendido" o "apagado". Estos interruptores son utilizados comúnmente para configurar manualmente opciones de configuración en dispositivos electrónicos, como tarjetas de circuitos, ajustando la conexión o desconexión de circuitos específicos para personalizar la funcionalidad del dispositivo.
+
+Pulsador
+Un pulsador es un dispositivo simple de entrada que se utiliza para enviar una señal eléctrica momentánea al ser presionado. También conocido como botón de presión, interruptor de contacto momentáneo o simplemente botón, su acción es temporal, activándose solo mientras se mantiene presionado y volviendo a su estado original cuando se suelta. Los pulsadores se utilizan comúnmente en una variedad de dispositivos electrónicos y sistemas para iniciar o detener funciones específicas con una breve pulsación.
+
+LED
+Un LED, o diodo emisor de luz, es un dispositivo semiconductor que emite luz cuando una corriente eléctrica pasa a través de él. Su nombre proviene de las siglas en inglés "Light Emitting Diode". Los LEDs son utilizados comúnmente en iluminación, pantallas electrónicas y señalización debido a su eficiencia energética y durabilidad.
+Display de 7 segmentos
+Un display de siete segmentos es un dispositivo de visualización que utiliza siete segmentos individuales para representar dígitos numéricos (0-9) y algunas letras. Cada segmento está dispuesto en una forma específica, y cuando se activan en combinaciones adecuadas, forman los números deseados. Estos displays son comúnmente utilizados en aplicaciones donde se requiere mostrar información numérica de manera simple, como en relojes digitales, contadores y paneles de instrumentos.
+Resistencia
+Una resistencia es un componente eléctrico que limita el flujo de corriente en un circuito. Su función es oponerse al paso de la electricidad, controlando la cantidad de corriente que fluye a través de ella. Las resistencias se utilizan para ajustar la corriente, voltaje y división de voltaje en circuitos electrónicos.
+Cableado
+El cableado se refiere al conjunto de cables conductores utilizados para conectar dispositivos eléctricos o electrónicos en un sistema. Este conjunto de cables facilita la transmisión de señales eléctricas, permitiendo la conexión y comunicación entre diferentes componentes de un sistema o red.
+Alhambra
+Las placas FPGA (Field-Programmable Gate Array) son dispositivos electrónicos programables que permiten a los diseñadores implementar y personalizar circuitos digitales. Estas placas suelen ser utilizadas para el desarrollo e implementación de proyectos en el ámbito de la electrónica digital y la lógica programable.
+
 
 
 
