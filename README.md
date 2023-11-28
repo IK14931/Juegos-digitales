@@ -77,9 +77,6 @@ Este método se suele utilizar para simplificar las funciones lógicas que se ha
 
 ![reto 3 flowchart](https://github.com/IK14931/Juegos-digitales/assets/151745707/4ce51bba-e144-4a24-b67e-9417d1b4e907)
 
-# Presupuesto
-![presupuesto](https://github.com/IK14931/Juegos-digitales/assets/151745707/265b2b8d-4168-43c3-99d9-e4395e6f9d13)
-
 # Desarollo
 # Analisis de los sistemas a implementar
 Elementos necesarios
@@ -157,3 +154,7 @@ Comparador
 Display SPI
 
 ![spi](https://github.com/IK14931/Juegos-digitales/assets/151745707/5708bc96-706f-4a0c-b86d-0741d06d4ddb)
+
+# Presupuesto
+
+![presupuesto](https://github.com/IK14931/Juegos-digitales/assets/151745707/265b2b8d-4168-43c3-99d9-e4395e6f9d13)
