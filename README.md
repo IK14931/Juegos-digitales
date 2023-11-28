@@ -87,7 +87,8 @@ Interruptor DIP
 
 Un interruptor DIP (Dual In-line Package) es un dispositivo de conmutación utilizado en electrónica. Se compone de un paquete rectangular con dos filas de pines que se insertan en una placa de circuito impreso. Cada interruptor DIP consta de interruptores individuales que pueden estar en posición "encendido" o "apagado". Estos interruptores son utilizados comúnmente para configurar manualmente opciones de configuración en dispositivos electrónicos, como tarjetas de circuitos, ajustando la conexión o desconexión de circuitos específicos para personalizar la funcionalidad del dispositivo.
 
-![360](https://github.com/IK14931/Juegos-digitales/assets/151745652/1d567133-2e6d-49e1-be92-08ca56579d3e)
+![51HAE9MKN6L](https://github.com/IK14931/Juegos-digitales/assets/151745652/f3ff188c-25fe-4cac-bf95-ea5ea6451161)
+
 
 
 Pulsador
