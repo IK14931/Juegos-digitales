@@ -20,6 +20,7 @@ La electrónica digital es la rama de la electrónica más moderna y la que evol
 Estos dos estados discretos reciben muchas parejas de nombres en libros de electrónica y otros textos especializados y tener solo estos dos valores permite usar el álgebra booleana y códigos binarios.
 
 # Requerimientos del reto
+
 # Sistemas digitales
 La clasificación de los sistemas digitales se pueden dividir en dos grupos: combinacionales y secuenciales.
 
