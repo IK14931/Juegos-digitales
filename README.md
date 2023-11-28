@@ -78,6 +78,7 @@ Método de simplificación de Karnaugh
 
 Este método se suele utilizar para simplificar las funciones lógicas que se han obtenido en la tabla de la verdad. Estos son los mapas de Karnaugh:
 
-![ejemplos-karnaugh](https://github.com/IK14931/Juegos-digitales/assets/151745652/1aec9c7d-78f5-45f1-bb48-2fab55278793)
+![image](https://github.com/IK14931/Juegos-digitales/assets/151745652/28b1ebe9-9674-47e2-8e54-336ecef9d6cb)
+
 
 
