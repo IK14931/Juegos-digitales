@@ -166,3 +166,5 @@ Esta seria a programacion de nuestro juego digital, gracias a que con el SPI nos
 # Presupuesto
 
 ![presupuesto](https://github.com/IK14931/Juegos-digitales/assets/151745707/265b2b8d-4168-43c3-99d9-e4395e6f9d13)
+
+https://drive.google.com/file/d/18jQHZZ0smO0fU7KLI3nI9ktH5A_Fgkjv/view?usp=sharing
