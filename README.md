@@ -51,9 +51,12 @@ Es un sistema matemático que sirve para resolver y representar circuitos digita
 
 Reglas de Boole:
 
+![tabla5](https://github.com/IK14931/Juegos-digitales/assets/151745652/76e1a585-136d-435c-bd16-d45f7e14f0d0)
+
  
 Teorema de De Morgan:
 
+![Leyes De Morgan](https://github.com/IK14931/Juegos-digitales/assets/151745652/5cdce8ea-0934-49a9-91c2-962441248ed6)
 
 Tabla de la verdad
 
