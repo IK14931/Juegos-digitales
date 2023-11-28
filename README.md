@@ -160,8 +160,7 @@ Display SPI
 Como mejora para nuestro proyecto nos pidieron que usaramos el estandar SPI para el uso del display de 7 segmentos, de este modo conseguimos ahorrar 4 pines los cuales podemos utilizar para algunas otras funciones.
 ![spi](https://github.com/IK14931/Juegos-digitales/assets/151745707/5708bc96-706f-4a0c-b86d-0741d06d4ddb)
 
-En nuestro caso ahora que tenemos algunos pines de sobra hemos decidido poner un BUZER para que cuando el jugador adivine el numero suene.
-
+Esta seria a programacion de nuestro juego digital, gracias a que con el SPI nos ahorraramos 4 pines decidimos añadir un Buzer para que cuando el jugador adivine el numero suene.
 ![icestudio](https://github.com/IK14931/Juegos-digitales/assets/151745707/176f0f2b-01e2-481c-ab3e-11df6e2f7577)
 
 # Presupuesto
