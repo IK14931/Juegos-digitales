@@ -80,32 +80,56 @@ Elementos necesarios
 Fuente de alimentación
 
 Una fuente de alimentación es un dispositivo que proporciona energía eléctrica a otros dispositivos, convirtiendo la corriente eléctrica de una forma a otra para satisfacer los requisitos específicos del dispositivo conectado.
+
+![comprar-fuente-de-alimentacion-cc-regulable-30v-25a-aux-12v-5v](https://github.com/IK14931/Juegos-digitales/assets/151745652/ef2980aa-3e7c-4d9a-b6c7-29f335655614)
+
 Interruptor DIP
+
 Un interruptor DIP (Dual In-line Package) es un dispositivo de conmutación utilizado en electrónica. Se compone de un paquete rectangular con dos filas de pines que se insertan en una placa de circuito impreso. Cada interruptor DIP consta de interruptores individuales que pueden estar en posición "encendido" o "apagado". Estos interruptores son utilizados comúnmente para configurar manualmente opciones de configuración en dispositivos electrónicos, como tarjetas de circuitos, ajustando la conexión o desconexión de circuitos específicos para personalizar la funcionalidad del dispositivo.
+
+![360](https://github.com/IK14931/Juegos-digitales/assets/151745652/1d567133-2e6d-49e1-be92-08ca56579d3e)
+
 
 Pulsador
 
 Un pulsador es un dispositivo simple de entrada que se utiliza para enviar una señal eléctrica momentánea al ser presionado. También conocido como botón de presión, interruptor de contacto momentáneo o simplemente botón, su acción es temporal, activándose solo mientras se mantiene presionado y volviendo a su estado original cuando se suelta. Los pulsadores se utilizan comúnmente en una variedad de dispositivos electrónicos y sistemas para iniciar o detener funciones específicas con una breve pulsación.
 
+![Pulsador-2-pines-2-](https://github.com/IK14931/Juegos-digitales/assets/151745652/d3f03e14-06c7-47e7-a044-01ddd752c8df)
+
+
 LED
 
 Un LED, o diodo emisor de luz, es un dispositivo semiconductor que emite luz cuando una corriente eléctrica pasa a través de él. Su nombre proviene de las siglas en inglés "Light Emitting Diode". Los LEDs son utilizados comúnmente en iluminación, pantallas electrónicas y señalización debido a su eficiencia energética y durabilidad.
+
+![diodos-led-de-5-mm-para-arduino-varios-colores](https://github.com/IK14931/Juegos-digitales/assets/151745652/1610b799-8d62-4f45-88cc-8b01f8a2e879)
+
 
 Display de 7 segmentos
 
 Un display de siete segmentos es un dispositivo de visualización que utiliza siete segmentos individuales para representar dígitos numéricos (0-9) y algunas letras. Cada segmento está dispuesto en una forma específica, y cuando se activan en combinaciones adecuadas, forman los números deseados. Estos displays son comúnmente utilizados en aplicaciones donde se requiere mostrar información numérica de manera simple, como en relojes digitales, contadores y paneles de instrumentos.
 
+![display-7-segmentos-rojos-056](https://github.com/IK14931/Juegos-digitales/assets/151745652/9b241680-d1c8-4085-8067-f39771ee93de)
+
+
 Resistencia
 
 Una resistencia es un componente eléctrico que limita el flujo de corriente en un circuito. Su función es oponerse al paso de la electricidad, controlando la cantidad de corriente que fluye a través de ella. Las resistencias se utilizan para ajustar la corriente, voltaje y división de voltaje en circuitos electrónicos.
+
+![image0012](https://github.com/IK14931/Juegos-digitales/assets/151745652/b05a2191-998e-4c7d-a6d0-f78b2e59fe3f)
 
 Cableado
 
 El cableado se refiere al conjunto de cables conductores utilizados para conectar dispositivos eléctricos o electrónicos en un sistema. Este conjunto de cables facilita la transmisión de señales eléctricas, permitiendo la conexión y comunicación entre diferentes componentes de un sistema o red.
 
+![p_6_8_1_681-40-CABLES-MACHO-HEMBRA-10cm-jumpers-dupont-254-arduino](https://github.com/IK14931/Juegos-digitales/assets/151745652/ed941db1-2150-4fa1-9df7-4fc111a7eacd)
+
+
 Alhambra
 
 Las placas FPGA (Field-Programmable Gate Array) son dispositivos electrónicos programables que permiten a los diseñadores implementar y personalizar circuitos digitales. Estas placas suelen ser utilizadas para el desarrollo e implementación de proyectos en el ámbito de la electrónica digital y la lógica programable.
+
+![A2-465x368](https://github.com/IK14931/Juegos-digitales/assets/151745652/d27bfa18-d07a-4988-ba36-247831e9bfa1)
+
 
 
 
