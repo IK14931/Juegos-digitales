@@ -97,7 +97,8 @@ Interruptor DIP
 
 Un interruptor DIP (Dual In-line Package) es un dispositivo de conmutación utilizado en electrónica. Se compone de un paquete rectangular con dos filas de pines que se insertan en una placa de circuito impreso. Cada interruptor DIP consta de interruptores individuales que pueden estar en posición "encendido" o "apagado". Estos interruptores son utilizados comúnmente para configurar manualmente opciones de configuración en dispositivos electrónicos, como tarjetas de circuitos, ajustando la conexión o desconexión de circuitos específicos para personalizar la funcionalidad del dispositivo.
 
-![51HAE9MKN6L](https://github.com/IK14931/Juegos-digitales/assets/151745652/f3ff188c-25fe-4cac-bf95-ea5ea6451161)
+![F3795155-01 (1)](https://github.com/IK14931/Juegos-digitales/assets/151745707/57bf7945-9d23-413a-9dd6-53b747a7efab)
+
 
 
 
@@ -167,4 +168,12 @@ Esta seria a programacion de nuestro juego digital, gracias a que con el SPI nos
 
 ![presupuesto](https://github.com/IK14931/Juegos-digitales/assets/151745707/265b2b8d-4168-43c3-99d9-e4395e6f9d13)
 
-https://drive.google.com/file/d/18jQHZZ0smO0fU7KLI3nI9ktH5A_Fgkjv/view?usp=sharing
+# Montaje/Funcionamiento
+
+Os dejamos un enlace con un video que muestra cómo sería el montaje y cómo funciona nuestro juego.
+
+![VideoCapture_20231128-203639](https://github.com/IK14931/Juegos-digitales/assets/151745707/431c650a-8a57-489e-ac2f-6c8b8c9c2610)
+
+https://youtu.be/HS_yfvQdXFI?feature=shared
+
+
