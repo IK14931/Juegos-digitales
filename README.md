@@ -135,5 +135,6 @@ Las placas FPGA (Field-Programmable Gate Array) son dispositivos electrónicos p
 ![multisim](https://github.com/IK14931/Juegos-digitales/assets/151745707/81d60e69-0169-4901-9a5c-cdca2aae24f3)
 
 
+![icestudio](https://github.com/IK14931/Juegos-digitales/assets/151745707/176f0f2b-01e2-481c-ab3e-11df6e2f7577)
 
 
