@@ -41,6 +41,8 @@ Accionado (1): Cambia el estado.
 Sin accionar (0): No cambia el estado.
 
 Operaciones lógicas. 
+![operaciones-logicas](https://github.com/IK14931/Juegos-digitales/assets/151745652/e0969078-ab76-49ad-9121-8333007e872b)
+
 
 Algebra de Boole
 
